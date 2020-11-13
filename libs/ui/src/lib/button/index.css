@@ -1,0 +1,17 @@
+.haus-button {
+  font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 500;
+  border: 0;
+  border-radius: 3em;
+  color: #586A66;
+  cursor: pointer;
+  padding: 11px 40px;
+  display: inline-block;
+  line-height: 1;
+  white-space: nowrap;
+}
+.haus-button--primary {
+  background-color: #fff;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 1px inset;
+}
+

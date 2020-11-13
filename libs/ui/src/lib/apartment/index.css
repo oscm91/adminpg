@@ -1,0 +1,59 @@
+.haus-apartment {
+  font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 500;
+  color: #586A66;
+  cursor: pointer;
+  line-height: 1;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  width: 110px;
+  margin: 20px 5px;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.haus-apartment-label {
+  background-color: #D2FFEE;
+  font-size: 12px;
+  padding-bottom: 6px;
+  padding-top: 6px;
+  text-align: center;
+}
+
+.haus-apartment-number {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 14px 16px 0px 16px;
+}
+
+.haus-apartment-size {
+  font-size: 18px;
+  font-weight: normal;
+  margin: 14px 16px 0px 16px;
+}
+
+.haus-apartment-size sup{
+  font-size: 12px;
+}
+
+.haus-apartment-type {
+  background-color: #F8F8F8;
+  font-size: 12px;
+  border-radius: 25px;
+  margin: 18px 16px;
+  padding-bottom: 2px;
+  padding-top: 2px;
+  text-align: center;
+}
+
+.haus-apartment--primary {
+}
+.haus-apartment--secondary {
+}
+.haus-apartment--small {
+}
+.haus-apartment--medium {
+}
+.haus-apartment--large {
+}

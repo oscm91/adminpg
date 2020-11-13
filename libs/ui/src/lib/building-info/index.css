@@ -1,0 +1,56 @@
+.haus-building {
+  font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  color: #586A66;
+  cursor: pointer;
+  line-height: 1;
+  display: flex;
+  padding: 15px 0px;
+}
+
+.haus-building-logo {
+  display: inline-block;
+  float: left;
+}
+
+.haus-building-logo img, .haus-building-logo svg{
+  width: 100px;
+  overflow: hidden;
+  border-radius: 2px;
+  padding: 20px;
+  height: initial;
+  background-color: #ccc;
+  margin-left: 30px;
+  margin-right: 20px;
+}
+
+.haus-building-info{
+  display: flex;
+  flex-direction: column;
+  float: left;
+  align-content: center;
+  justify-content: center;
+}
+
+.haus-building-name{
+  color: #586A66;
+  font-weight: normal;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.haus-building-address{
+  color: #666;
+  font-size: 12px;
+  font-style: normal;
+}
+
+.haus-building--primary {
+}
+.haus-building--secondary {
+}
+.haus-building--small {
+}
+.haus-building--medium {
+}
+.haus-building--large {
+}

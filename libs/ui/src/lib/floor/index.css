@@ -1,0 +1,41 @@
+.haus-floor {
+  font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 500;
+  color: #586A66;
+  padding: 0px;
+  line-height: 1;
+  background-color: #F8F8F8;
+  display: flex;
+  flex-direction: row;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  border-radius: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.haus-floor-number{
+  display: flex;
+  font-weight: normal;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  line-height: 1.5;
+  margin: 0px;
+  padding: 10px 30px;
+  position: sticky;
+  left: 0px;
+  background-color: #F8F8F8;
+}
+
+.haus-floor--primary {
+}
+.haus-floor--secondary {
+}
+.haus-floor--small {
+}
+.haus-floor--medium {
+}
+.haus-floor--large {
+}
